@@ -1,4 +1,5 @@
 # kottans-frontend
+
 <html>
 <body>
   <h2>Tasks Listing</h2>
@@ -18,9 +19,16 @@ A Git repository (or repo for short) contains all of the project files and the e
 To record the changes firstly we should add (index) files to a staging (index) area. Then we make a commit,
 Commit takes a picture of what files look like at the moment and stores a reference.<br>
 
-Storing a copy of your Git repo with an online host (such as GitHub or Bitbucket) gives you a centrally located place where you can upload your changes and download changes from others, letting you collaborate more easily with other developers. After you have a remote repository set up, you upload (push) your files and revision history to it. After someone else makes changes to a remote repo, you can download (pull) their changes into your local repo.<br>
-Pull requests are a way to discuss changes before merging them into your codebase, and decide if you want to merge it or not.
-  </p>
+Storing a copy of your Git repo with an online host (such as GitHub or
+Bitbucket) gives you a centrally located place where you can upload your changes
+and download changes from others, letting you collaborate more easily with other
+developers. After you have a remote repository set up, you upload (push) your
+files and revision history to it. After someone else makes changes to a remote
+repo, you can download (pull) their changes into your local repo.<br> Pull
+requests are a way to discuss changes before merging them into your codebase,
+and decide if you want to merge it or not.</p>
+<img src="./image/finish.png" width="600" height="300" alt="This is a screenshot of my course finish">
+
       <li>Linux CLI, HTTP</li>
       <li>Git for Team Collaboration</li>
       <li>Front-End Basics</li>
@@ -34,7 +42,7 @@ Pull requests are a way to discuss changes before merging them into your codebas
       <li>Offline Web Applications - optional</li>
       <li>Memory – Pair Game - practice</li>
       <li>Website Performance Optimization - optional</li>
-      <li>Friends App - practice</li> 
+      <li>Friends App - practice</li>
     </ol>
     </div>
 
