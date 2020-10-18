@@ -3,8 +3,8 @@
 <html>
 <body>
   <h2>Tasks Listing</h2>
-   <ol>
-      <li>Git intro</li>
+  <div class="intro">
+   <h3>1. Git intro</h3>
   <p>
   I'm really exciting about GIT. It was my first time working with it.
 Thanks to git bash, I feel myself a real programmer.
@@ -29,22 +29,22 @@ requests are a way to discuss changes before merging them into your codebase,
 and decide if you want to merge it or not.</p>
 <img src="./image/finish.png" width="600" height="300" alt="This is a screenshot of my course finish">
 
-      <li>Linux CLI, HTTP</li>
-      <li>Git for Team Collaboration</li>
-      <li>Front-End Basics</li>
-      <li>Responsive Layouts</li>
-      <li>HTML & CSS Practice</li>
-      <li>JavaScript Basics</li>
-      <li>Document Object Model</li>
-      <li>Building a Tiny JS World (pre-OOP) - practice</li>
-      <li>Object-Oriented JavaScript - practice</li>
-      <li>OOP exercise - practice</li>
-      <li>Offline Web Applications - optional</li>
-      <li>Memory – Pair Game - practice</li>
-      <li>Website Performance Optimization - optional</li>
-      <li>Friends App - practice</li>
-    </ol>
-    </div>
+</div>
+
+      <h3>2. Linux CLI, HTTP</h3>
+      <h3>3. Git for Team Collaboration</h3>
+      <h3>4. Front-End Basics</h3>
+      <h3>5. Responsive Layouts</h3>
+      <h3>6. HTML & CSS Practice</h3>
+      <h3>7. JavaScript Basics</h3>
+      <h3>8. Document Object Model</h3>
+      <h3>9. Building a Tiny JS World (pre-OOP) - practice</h3>
+      <h3>10. Object-Oriented JavaScript - practice</h3>
+      <h3>11. OOP exercise - practice</h3>
+      <h3>12. Offline Web Applications - optional</h3>
+      <h3>13. Memory – Pair Game - practice</h3>
+      <h3>14. Website Performance Optimization - optional</h3>
+      <h3>15. Friends App - practice</h3>
 
 </body>
 </html>
