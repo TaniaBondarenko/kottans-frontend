@@ -30,7 +30,7 @@ and decide if you want to merge it or not.</p>
 <img src="./image/finish.png" width="600" height="300" alt="This is a screenshot of my course finish">
 
 </div>
-
+</div>
       <h3>2. Linux CLI, HTTP</h3>
       <h3>3. Git for Team Collaboration</h3>
       <h3>4. Front-End Basics</h3>
@@ -45,6 +45,6 @@ and decide if you want to merge it or not.</p>
       <h3>13. Memory – Pair Game - practice</h3>
       <h3>14. Website Performance Optimization - optional</h3>
       <h3>15. Friends App - practice</h3>
-
+</div>
 </body>
 </html>
