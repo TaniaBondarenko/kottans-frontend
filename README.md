@@ -127,7 +127,16 @@ The <b>git rebase</b> command will move commits to have a new base.
 <p>Check my progress on courses <a href="https://github.com/TaniaBondarenko/kottans-frontend/blob/main/task_git_collaboration/finish_git_coll.png" alt ="Picture of finishing GIT_Collaborations">here</a>, <a href="https://github.com/TaniaBondarenko/kottans-frontend/blob/main/task_git_collaboration/main.png" alt="Picture of progress on Main gitbranching">here</a> and <a href="https://github.com/TaniaBondarenko/kottans-frontend/blob/main/task_git_collaboration/remote.png" alt="Picture of progress on Remote gitbranching">here.<a/> 
 </p>
 </div>
-      <h3>4. Front-End Basics</h3>
+      <h3>4. Intro to HTML and CSS</h3>
+  <div  class="html_css_intro">
+<p>I liked that the lessons have a lot of practice in HTML/CSS.
+It was good for my remember the main tags and properties.
+To check, how I've finished lessons <a href="https://github.com/TaniaBondarenko/kottans-frontend/blob/main/task_html_css_intro/intro_html_css.png" alt="Screenshot of completing HTML/CSS intro course">click on link</a>
+I was amased about interactive courses from codecadamy. Tonns of practice where I could check immediately
+how all my actions had been influencing on how the web-page looked like. Very informative and understandable. 
+And I loved it.
+Find screenshots of completed courses <a href="https://github.com/TaniaBondarenko/kottans-frontend/blob/main/task_html_css_intro/codecademy_html.png" alt="Screenshot of completing HTML course">HTML</a> and <a href="https://github.com/TaniaBondarenko/kottans-frontend/blob/main/task_html_css_intro/codecademy_css.png" alt="Screenshot of completing CSS course"> CSS</a></p>  
+</div>
       <h3>5. Responsive Layouts</h3>
       <h3>6. HTML & CSS Practice</h3>
       <h3>7. JavaScript Basics</h3>
