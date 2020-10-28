@@ -137,7 +137,36 @@ how all my actions had been influencing on how the web-page looked like. Very in
 And I loved it.<br>
 Find screenshots of completed courses <a href="https://github.com/TaniaBondarenko/kottans-frontend/blob/main/task_html_css_intro/codecademy_html.png" alt="Screenshot of completing HTML course">HTML</a> and <a href="https://github.com/TaniaBondarenko/kottans-frontend/blob/main/task_html_css_intro/codecademy_css.png" alt="Screenshot of completing CSS course"> CSS.</a></p>  
 </div>
-      <h3>5. Responsive Layouts</h3>
+      <h3>5. Responsive Web Design</h3>
+      <div class="responsive_WD">
+<p>Information about Responsive design was very useful for me and my latest projects. 
+It's really important to fit content, which I'll be creating, to the most type of devices.</p>
+
+<p>Firstly there is nessesery to add code below into header:<br>
+
+<code>meta name="viewport" content="width=device-width,
+initial-scale=1.0"</code> <br>
+
+<div>
+I like new information about @media query and patterns. I should definitely learn more about common responsive pattern and how to use it correctly. Most design patterns will use breakpoints to adapt for different screen sizes.<br><br>
+<b>Common responsive patterns:</b>
+<ol>
+<li><dt>Column drop</dt>
+       <dd>this pattern implements a multi-column layout and ends up with a single column layout, dropping columns along the way as the screen size becomes more narrow.</dd></li>
+<li><dt>Mostly fluid</dt>
+       <dd>this pattern relies on a fluid grid for big and smaller screens and it adds the margins on wider screens. It usually supposes only one breakpoint. </dd></li>
+<li><dt>Layout Shifter</dt>
+       <dd>This pattern has multiple breakpoints across several screens making it the most responsive pattern. This also makes greater flexibility.
+</dd></li>
+<li><dt>Off canvas</dt>
+       <dd>this pattern moves content off the screen, only showing it when the screen size is large enough to display it. However, the hidden content is available through pop up menus or hamburger menus to save space.</dd></li>
+</ol>
+</div>
+<p> I've got a usefull information how to handle with tables as responsive. The best ways are to hide some part of columns (hidden columns), make the whole table scrollable (contained scrolling) and display table as non-table content (no more tables). This tips should be vary  depending on table content and its importance.</p>
+<img src="https://github.com/TaniaBondarenko/kottans-frontend/blob/main/task_responsive_web_design/responsive_WD.png" alt="screenshot of finishing course responsive web design">
+<p>Game Flexbox Froggy was a bit adventure and gave me a break in a flow of serious and needful information on this course.</p><br>
+<img src="./task_responsive_web_design/flexbox_froggy.png"  width="600" height="300" alt="This is a screenshot of game finish">
+</div>
       <h3>6. HTML & CSS Practice</h3>
       <h3>7. JavaScript Basics</h3>
       <h3>8. Document Object Model</h3>
