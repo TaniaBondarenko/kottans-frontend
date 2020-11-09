@@ -180,7 +180,7 @@ I couldn't stand out with this problem by myself. Luckily, I've got help from me
 and other people, whom was involved by me as well.
 At the end, I've set in order all my folders and repositories. 
 It helped me done with this task and it gave me more understanding of how git works.<p>
-The results of my painstaking work is <a href="https://taniabondarenko.github.io/TaniaBondarenko-hooly-style-popup/">here. Enjoy!
+The results of my painstaking work is <a href="https://taniabondarenko.github.io/TaniaBondarenko-hooly-style-popup/">here.</a> Enjoy!
  
  </div>     
       <h3>7. JavaScript Basics</h3>
