@@ -168,6 +168,21 @@ I like new information about @media query and patterns. I should definitely lear
 <img src="./task_responsive_web_design/flexbox_froggy.png"  width="600" height="300" alt="This is a screenshot of game finish">
 </div>
       <h3>6. HTML & CSS Practice</h3>
+ <div class="html_css_practice">
+ <p>During working on practice tasks I improved my knowledge of html and especially css.
+It was needed for me to read a lot of articles for organization of dropdown menu.
+I've used simple model for this because I still don't have a deep knowledge of all the
+ tags or css properties. Hope, I'll be able to deep my knowledge’s with this course.</p>
+ <p>Making pull request to remote repository turned out a real challenge.
+The problem appeared right in the middle of executing instruction steps.
+Thanks to our patience mentors, I've recognized that all my repositories was in another repository. 
+I couldn't stand out with this problem by myself. Luckily, I've got help from mentors 
+and other people, whom was involved by me as well.
+At the end, I've set in order all my folders and repositories. 
+It helped me done with this task and it gave me more understanding of how git works.<p>
+The results of my painstaking work is <a href="https://taniabondarenko.github.io/TaniaBondarenko-hooly-style-popup/">here. Enjoy!
+ 
+ </div>     
       <h3>7. JavaScript Basics</h3>
       <h3>8. Document Object Model</h3>
       <h3>9. Building a Tiny JS World (pre-OOP) - practice</h3>
