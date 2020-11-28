@@ -167,23 +167,35 @@ I like new information about @media query and patterns. I should definitely lear
 <p>Game Flexbox Froggy was a bit adventure and gave me a break in a flow of serious and needful information on this course.</p><br>
 <img src="./task_responsive_web_design/flexbox_froggy.png"  width="600" height="300" alt="This is a screenshot of game finish">
 </div>
-      <h3>6. HTML & CSS Practice</h3>
- <div class="html_css_practice">
- <p>During working on practice tasks I improved my knowledge of html and especially css.
-It was needed for me to read a lot of articles for organization of dropdown menu.
-I've used simple model for this because I still don't have a deep knowledge of all the
- tags or css properties. Hope, I'll be able to deep my knowledge’s with this course.</p>
- <p>Making pull request to remote repository turned out a real challenge.
-The problem appeared right in the middle of executing instruction steps.
-Thanks to our patience mentors, I've recognized that all my repositories was in another repository. 
-I couldn't stand out with this problem by myself. Luckily, I've got help from mentors 
-and other people, whom was involved by me as well.
-At the end, I've set in order all my folders and repositories. 
-It helped me done with this task and it gave me more understanding of how git works.<p>
-The results of my painstaking work is <a href="https://taniabondarenko.github.io/TaniaBondarenko-hooly-style-popup/">here.</a> Enjoy!
- 
- </div>     
       <h3>7. JavaScript Basics</h3>
+      <div class="js_basics">
+     <p>I had some tiny experience with learning JavaScript. But this part of course was challenging for me.
+     I've just left some useful theses for me:</p>
+<ul>
+<li>Spread Operator.<br>The spread operator takes an array (or any iterable) and spreads it values. <code>arr1=[...arr2] </code>make copy of arr2 and assign it to arr1.
+The spread operator allows us to spread the value of an array (or any iterable) across zero or more arguments in a function or elements in an array (or any iterable). The rest parameter allows us to pass an indefinite number of parameters to a function and access them in an array.</li>
+
+<li>Destructuring Assignment.<br>
+Destructuring assignment is special syntax introduced in ES6, for neatly assigning values taken directly from an object.<br>
+Destructuring allows you to assign a new variable name when extracting values. You can do this by putting the new name after a colon when assigning the value.</br></li>
+ </ul>
+
+<p>Two distinct principles for functional programming:
+<ol>
+<li> Don't alter a variable or object - create new variables and objects and return them if need be from a function.</li>
+
+<li>Declare function arguments - any computation inside a function depends only on the arguments, and not on any global object or variable.</li>
+</ol>
+<img src="./task_js_basics/intro_to_js.png"  width="600" height="300" alt="This is a screenshot of my course finish">
+
+<p> FreeCodeCamp tasks were pretty easy at the first, but then became more complicated and I needed to looking for some extra materials.<br><br>
+<img src="./task_js_basics/collage.png" width="600" height="300" alt="This is a screenshot of my course finish">
+I was recalling methods for arrays, objects and strings. I also learned those, which were new to me.</p>
+<p>I believe that I improved my knowledge of JavaScript.</p>
+
+      </div>
+
+      </div>
       <h3>8. Document Object Model</h3>
       <h3>9. Building a Tiny JS World (pre-OOP) - practice</h3>
       <h3>10. Object-Oriented JavaScript - practice</h3>
