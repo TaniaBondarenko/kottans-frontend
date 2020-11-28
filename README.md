@@ -167,7 +167,7 @@ I like new information about @media query and patterns. I should definitely lear
 <p>Game Flexbox Froggy was a bit adventure and gave me a break in a flow of serious and needful information on this course.</p><br>
 <img src="./task_responsive_web_design/flexbox_froggy.png"  width="600" height="300" alt="This is a screenshot of game finish">
 </div>
-      <h3>7. JavaScript Basics</h3>
+      <h3>6. JavaScript Basics</h3>
       <div class="js_basics">
      <p>I had some tiny experience with learning JavaScript. But this part of course was challenging for me.
      I've just left some useful theses for me:</p>
@@ -186,15 +186,12 @@ Destructuring allows you to assign a new variable name when extracting values. Y
 
 <li>Declare function arguments - any computation inside a function depends only on the arguments, and not on any global object or variable.</li>
 </ol>
-<img src="./task_js_basics/intro_to_js.png"  width="600" height="300" alt="This is a screenshot of my course finish">
+<img src="./task_js_basics/intro_to_js.png"  width="800" height="300" alt="This is a screenshot of my course finish">
 
 <p> FreeCodeCamp tasks were pretty easy at the first, but then became more complicated and I needed to looking for some extra materials.<br><br>
-<img src="./task_js_basics/collage.png" width="600" height="300" alt="This is a screenshot of my course finish">
+<img src="./task_js_basics/collage.jpg" width="800" height="400" alt="This is a screenshot of my course finish">
 I was recalling methods for arrays, objects and strings. I also learned those, which were new to me.</p>
 <p>I believe that I improved my knowledge of JavaScript.</p>
-
-      </div>
-
       </div>
       <h3>8. Document Object Model</h3>
       <h3>9. Building a Tiny JS World (pre-OOP) - practice</h3>
