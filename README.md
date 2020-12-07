@@ -215,7 +215,7 @@ The DOM is:
 <p>The DOM is an object-oriented representation of the web page, which can be modified with a scripting language such as JavaScript.</p>
 <p>I knew nothing about DOM. It was interesting to learn it. I found it very useful and logic.</p>
 <p><a href="https://github.com/TaniaBondarenko/kottans-frontend/tree/main/task_js_dom" alt="Screenshots for finishing learn">Here</a> is my screenshots from learning.<br>
-And <a href="https://taniabondarenko.github.io/dom_js_github.io/">here is my practical task.</a> s
+And <a href="https://taniabondarenko.github.io/dom_js_github.io/">here is my practical task.</a>
 This project should help my daughter to prepare for her exams at music school by using associations of melody with the name of the composition.</p>
       </div>
       <h3>8. Building a Tiny JS World (pre-OOP) - practice</h3>
