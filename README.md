@@ -193,14 +193,38 @@ Destructuring allows you to assign a new variable name when extracting values. Y
 I was recalling methods for arrays, objects and strings. I also learned those, which were new to me.</p>
 <p>I believe that I improved my knowledge of JavaScript.</p>
       </div>
-      <h3>8. Document Object Model</h3>
-      <h3>9. Building a Tiny JS World (pre-OOP) - practice</h3>
-      <h3>10. Object-Oriented JavaScript - practice</h3>
-      <h3>11. OOP exercise - practice</h3>
-      <h3>12. Offline Web Applications - optional</h3>
-      <h3>13. Memory – Pair Game - practice</h3>
-      <h3>14. Website Performance Optimization - optional</h3>
-      <h3>15. Friends App - practice</h3>
+      <h3>7. Document Object Model</h3>
+      <div class="dom">
+<p>The DOM stands for "Document Object Model" and is a tree-like structure that is a representation of the HTML document, the relationship between elements, and contains the content and properties of the elements.<br>
+The DOM is not:
+  <ul>
+ <li>part of the JavaScript language.</li>
+</ul>
+The DOM is:
+<ul>
+<li>constructed from the browser</li>
+<li>is globally accessible by JavaScript code using the document object:</li>
+<ul>
+<li>characters</li>
+<li>tags</li>
+<li>tokens</li>
+<li>nodes</li>
+<li>DOM</li>
+</ul>
+</ul>
+<p>The DOM is an object-oriented representation of the web page, which can be modified with a scripting language such as JavaScript.</p>
+<p>I knew nothing about DOM. It was interesting to learn it. I found it very useful and logic.</p>
+<p><a href="" alt="Screenshots for finishing learn">Here</a> is my screnshots from learning.
+And <a href="https://taniabondarenko.github.io/dom_js_github.io/">here</a> is my practical task.
+This project should help my daughter to prepare for her exams at music school by using associations of melody with the name of the composition.</p>
+      </div>
+      <h3>8. Building a Tiny JS World (pre-OOP) - practice</h3>
+      <h3>9. Object-Oriented JavaScript - practice</h3>
+      <h3>10. OOP exercise - practice</h3>
+      <h3>11. Offline Web Applications - optional</h3>
+      <h3>12. Memory – Pair Game - practice</h3>
+      <h3>13. Website Performance Optimization - optional</h3>
+      <h3>14. Friends App - practice</h3>
 
 </div>
 </body>
