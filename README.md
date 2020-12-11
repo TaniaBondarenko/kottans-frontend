@@ -219,6 +219,19 @@ And <a href="https://taniabondarenko.github.io/dom_js_github.io/">here is my pra
 This project should help my daughter to prepare for her exams at music school by using associations of melody with the name of the composition.</p>
       </div>
       <h3>8. Building a Tiny JS World (pre-OOP) - practice</h3>
+      <div class="a_tiny_js_world">
+<p>The task reminded me all I knew about objects. It was not difficult, but I should read the task's demands more carefully first time.
+Also I've got a very useful knowledge how to publish a project to GitHub-pages directly from git terminal.</p>
+<pre><code>
+git fetch
+git checkout gh-pages
+git pull origin gh-pages
+git merge master
+git push origin gh-pages
+git checkout master
+</pre></code>
+<p><a href="https://taniabondarenko.github.io/a-tiny-JS-world/">This </a>is how my "world" looks like.</p>
+      </div>
       <h3>9. Object-Oriented JavaScript - practice</h3>
       <h3>10. OOP exercise - practice</h3>
       <h3>11. Offline Web Applications - optional</h3>
