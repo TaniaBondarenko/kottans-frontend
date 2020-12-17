@@ -233,6 +233,21 @@ git checkout master
 <p><a href="https://taniabondarenko.github.io/a-tiny-JS-world/">This </a>is how my "world" looks like.</p>
       </div>
       <h3>9. Object-Oriented JavaScript - practice</h3>
+      <div class="oop_js">
+      <p>Learning lessons with Udacity was a bit difficult for me, because of a lot of new material and words. I've finished it with the feeling that I need to get more information to consolidate knowledge.<p>
+      <img src="task_js_oop\udacity_oop.png" alt="screenshot of my lessons oop finish">
+      <p>The two important principles with OOP in JavaScript are Object Creation patterns (Encapsulation) and Code Reuse patterns (Inheritance). When building applications, creating many objects, and there exist many ways for creating these objects:</p>
+      <ul>
+      <li>using object literal pattern</li>
+      <li>using the prototype pattern, adding each method and property directly on the object’s prototype</li>
+      <li>using the constructor pattern, a constructor function</li>
+      </ui>
+      <p>I've learned a lot of information about OOP and I found it interesting and not as simple as it might seem.</p>
+      <p>I've definitely improved my skills with trying the classic arcada game works properly.</p>
+      <p>Here is my demo version of <a href="https://taniabondarenko.github.io/tania_bond_frontend_game/">the frogger game.</a></p>
+      <p>I liked practic tasks in codewar. I want to continue practicing to improve my technical skills and get a higher kyu, than my todays 7th.</p>
+      <img src="task_js_oop/tb_7.png" alt="picture of reaching 7kyu">
+      </div>
       <h3>10. OOP exercise - practice</h3>
       <h3>11. Offline Web Applications - optional</h3>
       <h3>12. Memory – Pair Game - practice</h3>
