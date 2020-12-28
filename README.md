@@ -250,6 +250,9 @@ git checkout master
       <img src="task_js_oop/tb_7.png" alt="picture of reaching 7kyu">
       </div>
       <h3>10. OOP exercise - practice</h3>
+      <div class="oop_practice">
+      <p>I've improved my previous a-tiny-js-wordl exercise by using OOP principles. This helped to make code shorter and cleaner.</p>
+      </div>
       <h3>11. Offline Web Applications - optional</h3>
       <h3>12. Memory – Pair Game - practice</h3>
       <h3>13. Website Performance Optimization - optional</h3>
