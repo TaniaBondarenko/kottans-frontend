@@ -242,8 +242,9 @@ git checkout master
       <li>using the prototype pattern, adding each method and property directly on the object’s prototype</li>
       <li>using the constructor pattern, a constructor function</li>
       </ui>
+      <br>
       <p>I've learned a lot of information about OOP and I found it interesting and not as simple as it might seem.</p>
-      <p>I've definitely improved my skills with trying the classic arcada game works properly.</p>
+      <p>I've definitely improved my skills with trying the classic arcada game works properly.</p> I want to thanks to @andrewklmn and @OleksiyRudenko, who helped me to make my code cleaner and better with the patience and calm.
       <p>Here is my demo version of <a href="https://taniabondarenko.github.io/tania_bond_frontend_game/">the frogger game.</a></p>
       <p>I liked practic tasks in codewar. I want to continue practicing to improve my technical skills and get a higher kyu, than my todays 7th.</p>
       <img src="task_js_oop/tb_7.png" alt="picture of reaching 7kyu">
