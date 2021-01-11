@@ -255,6 +255,10 @@ git checkout master
       </div>
       <h3>11. Offline Web Applications - optional</h3>
       <h3>12. Memory – Pair Game - practice</h3>
+      <div class="memory-pair-game">
+      Play and enjoy of my version of famous memory-pair-game 🎄</br>
+      <a href="https://taniabondarenko.github.io/memory-pair-game/">X-mas memory pair game</a>
+      </div>
       <h3>13. Website Performance Optimization - optional</h3>
       <h3>14. Friends App - practice</h3>
 
