@@ -259,9 +259,13 @@ git checkout master
       Play and enjoy of my version of famous memory-pair-game 🎄</br>
       <a href="https://taniabondarenko.github.io/memory-pair-game/">X-mas memory pair game</a>
       </div>
-      <h3>13. Website Performance Optimization - optional</h3>
-      <h3>14. Friends App - practice</h3>
-
+      <h3>13. Friends App - practice</h3>
+      <div>I've learned how to get and work with data from the api, here I'm using Randomuser api.
+The filter and sorting methods were implemented in the project. I've used a lot of ES6 features, such as arrow functions, promises, destructuring, template strings.
+With this app you can filter friends by gender, sort and search by name.
+It is adaptive for mobile devices.
+See how it works here:
+https://taniabondarenko.github.io/Friends-App/</div>
 </div>
 </body>
 </html>
